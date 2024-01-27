@@ -2,7 +2,7 @@
 ``` 
 System.out.println("Welcome to you!😊")
 ```
-## I made these notes while learning Java. Here is the code of Java basic and Object Oriented Programming. ##
+## I made these notes while learning Java. Here is the code of Java basic and Object Oriented Programming. If you need you can use the code here. ##
 
 </br>
 
