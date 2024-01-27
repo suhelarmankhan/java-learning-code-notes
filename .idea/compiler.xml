@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Assignment" />
+        <module name="FormatSpecifier" />
+        <module name="BasicJava" />
+        <module name="Comments_Single_Multiple_line_7" />
+        <module name="Java_Anisulislam" />
+        <module name="Practice" />
+        <module name="DataType" />
+        <module name="EscapeSequence6" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

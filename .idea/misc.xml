@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/Assignment/pom.xml" />
+        <option value="$PROJECT_DIR$/Class Projects/BeginnerJava/pom.xml" />
+        <option value="$PROJECT_DIR$/Class Projects/6  Escape sequence/pom.xml" />
+        <option value="$PROJECT_DIR$/Class Projects/12  Format specifier/pom.xml" />
+        <option value="$PROJECT_DIR$/Class Projects/10  Variable and data type in java/pom.xml" />
+        <option value="$PROJECT_DIR$/Class Projects/7  Comments  Single line  Multiple line/pom.xml" />
+        <option value="$PROJECT_DIR$/Class Projects/4  First Java Application  class, main method/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

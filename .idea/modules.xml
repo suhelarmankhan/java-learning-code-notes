@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Projects/4  First Java Application  class, main method/BasicJava.iml" filepath="$PROJECT_DIR$/Class Projects/4  First Java Application  class, main method/BasicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Projects/7  Comments  Single line  Multiple line/Comments_Single_Multiple_line_7.iml" filepath="$PROJECT_DIR$/Class Projects/7  Comments  Single line  Multiple line/Comments_Single_Multiple_line_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Projects/10  Variable and data type in java/DataType.iml" filepath="$PROJECT_DIR$/Class Projects/10  Variable and data type in java/DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Projects/6  Escape sequence/EscapeSequence6.iml" filepath="$PROJECT_DIR$/Class Projects/6  Escape sequence/EscapeSequence6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Projects/12  Format specifier/FormatSpecifier.iml" filepath="$PROJECT_DIR$/Class Projects/12  Format specifier/FormatSpecifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java learning codes.iml" filepath="$PROJECT_DIR$/.idea/Java learning codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Projects/BeginnerJava/Java_Anisulislam.iml" filepath="$PROJECT_DIR$/Class Projects/BeginnerJava/Java_Anisulislam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+    </modules>
+  </component>
+</project>
